@@ -7,7 +7,12 @@
 - 😻 I like GitMoji, its fun
 - 📫 If you need me, [treyson.grange@outlook.com](mailto:treyson.grange@outlook.com)
 - 😄 Pronouns: He/Him
-
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treyson-grange&label=Profile%20views&color=0e75b6&style=flat" alt="treyson-grange" /> </p>
 
