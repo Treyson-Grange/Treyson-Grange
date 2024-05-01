@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Treyson Grange</h1>
 <h3 align="center">A Computer Science Student at Utah State University Projected to graduate in Fall of 2024</h3>
 
-- 🔭 I’m currently working for Utah State Univesity as a Web Technician.
-  - I do front and backend work for **almost** all USU websites.
-  - I primarily use JavaScript, PHP, XSLT, and HTML/CSS
+- 🔭 I’m currently working for Utah State Univesity as a Student Programmer for the Networking team
 - 😻 I like GitMoji, its fun
-- 📫 If you need me, [treyson.grange@outlook.com](mailto:treyson.grange@outlook.com)
 - 😄 Pronouns: He/Him
 <a href="https://gitmoji.dev">
   <img
