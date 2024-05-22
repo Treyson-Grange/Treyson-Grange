@@ -4,6 +4,9 @@
 - 🔭 I’m currently working for Utah State Univesity as a Student Programmer for the Networking team
 - 😻 I like GitMoji, its fun
 - 😄 Pronouns: He/Him
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Treyson-Grange&show_icons=true&locale=en" alt="Treyson-Grange" /></p>
+
 <a href="https://gitmoji.dev">
   <img
     src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
