@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treyson-grange&label=Profile%20views&color=0e75b6&style=flat" alt="treyson-grange" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=treyson-grange&theme=chalk" alt="treyson-grange" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=treyson-grange&theme=onedark" alt="treyson-grange" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
