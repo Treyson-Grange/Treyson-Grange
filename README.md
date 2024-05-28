@@ -35,3 +35,7 @@
 <h1>Stats</h1>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Treyson-Grange&hide_title=true&show_icons=true&count_private=true&theme=react&hide_border=true" alt="Treyson-Grange" /></p>
+
+<h3 align="left">Spotify</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=treyson.grange&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
