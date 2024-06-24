@@ -37,5 +37,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Treyson-Grange&hide_title=true&show_icons=true&count_private=true&theme=react&hide_border=true" alt="Treyson-Grange" /></p>
 
 <h3 align="left">Spotify</h3>
-https://spotify-github-profile.kittinanx.com
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=treyson.grange&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=9141ac&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=treyson.grange&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=treyson.grange&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=9141ac&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=treyson.grange&redirect=true)
