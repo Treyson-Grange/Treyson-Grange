@@ -36,6 +36,44 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Treyson-Grange&hide_title=true&show_icons=true&count_private=true&theme=react&hide_border=true" alt="Treyson-Grange" /></p>
 
+<details>
+  <summary>Open source work</summary>
+
+  <ul>
+    <li><a href="github.com/openipam/">openIPAM</a></li>
+    <li><a href="https://github.com/react-bootstrap/react-bootstrap">React Bootstrap</a></li>
+    <li><a href="https://github.com/Django">Django</a></li>
+    
+  </ul>
+</details>
+
+<details>
+  <summary>School Projects</summary>
+  <h2>School Projects</h2>
+  
+  <h3>CS6830 Data Science In Practice</h3>
+  <ul>
+    <li><a href="https://github.com/blake-barber/CS6830-Final-Project">Final Project</a></li>
+    <li><a href="https://github.com/Drew-Watson-117/cs5830_project_8">Project 8</a></li>
+    <li><a href="https://github.com/ShawnThorne/cs5830_project7">Project 7</a></li>
+    <li><a href="https://github.com/n8taylor/cs_5830_project6">Project 6</a></li>
+    <li><a href="https://github.com/Treyson-Grange/cs5830_project5">Project 5</a></li>
+    <li><a href="https://github.com/Treyson-Grange/cs5830_project4">Project 4</a></li>
+    <li><a href="https://github.com/Treyson-Grange/cs5830_project3">Project 3</a></li>
+    <li><a href="https://github.com/Treyson-Grange/cs5830_project2">Project 2</a></li>
+    <li><a href="https://github.com/Treyson-Grange/cs5830_project1">Project 1</a></li>
+  </ul>
+
+  <h3>Misc</h3>
+  <ul>
+    <li><a href="#">Eedi-Mining-Misconceptions-in-Mathematics</a></li> <!-- Placeholder link -->
+    <li><a href="https://github.com/Treyson-Grange/4460CTFd">Cyber Security CTF</a></li>
+    <li><a href="https://github.com/usu-wallace/CS4320_Group_Project_01">Intro to ML final project</a></li>
+  </ul>
+</details>
+
+
+
 <h3 align="left">Spotify</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=treyson.grange&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=9141ac&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=treyson.grange&redirect=true)
