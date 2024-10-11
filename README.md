@@ -25,8 +25,9 @@
     <li><a href="https://github.com/Treyson-Grange/clap-chaos">clap-chaos</a> - app that helps musicians fight off-beat clappers</li>
     <li><a href="https://github.com/Treyson-Grange/IntextroJourney">IntextroJourney</a> - tool which aims to get introverts out of their comfort zone</li>
     <li><a href="https://github.com/Treyson-Grange/HelpHunt">Help Hunt</a> - stores questions and answers from IT chats to prevent repetitive help requests (WIP)</li>
-    <li><a href="https://github.com/bethChris/HealthyHoroscopes">Healthy Horoscopres</a> - Mental health meets machine learning</li>
-<!--     <li><a href=""></a></li> -->
+    <li><a href="https://github.com/bethChris/HealthyHoroscopes">Healthy Horoscopres</a> - mental health meets machine learning</li>
+    <li><a href="https://github.com/Treyson-Grange/MineSound">MineSound</a> - CLI minecraft ambient sound randomizer</li>
+    <!--     <li><a href=""></a></li> -->
   </ul>
 
 <h3>Professional Work</h3>
