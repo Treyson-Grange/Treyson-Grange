@@ -18,6 +18,15 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=Bootstrap)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat&logo=scikit-learn)
 
+<p>
+<a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=treyson-grange&theme=aura_dark">
+    <img alt="Profile overview" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=treyson-grange&theme=aura_dark" height="160">
+</a>
+
+<a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=treyson-grange&theme=aura_dark">
+    <img alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=treyson-grange&theme=aura_dark" height="160">
+</a>
+</p>
 
 <h3>Personal Projects</h3>
   <ul>
