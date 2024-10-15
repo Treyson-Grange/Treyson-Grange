@@ -30,12 +30,13 @@
 
 <h3>Personal Projects</h3>
   <ul>
-    <li><a href="https://github.com/Treyson-Grange/TM-Scripts">Tamper Monkey Scripts</a> - some tamper monkey scripts that make my favorite sites better (imo)</li>
     <li><a href="https://github.com/Treyson-Grange/clap-chaos">clap-chaos</a> - app that helps musicians fight off-beat clappers</li>
+    <li><a href="https://github.com/Treyson-Grange/TM-Scripts">Tamper Monkey Scripts</a> - some tamper monkey scripts that make my favorite sites better (imo)</li>
     <li><a href="https://github.com/Treyson-Grange/IntextroJourney">IntextroJourney</a> - tool which aims to get introverts out of their comfort zone</li>
     <li><a href="https://github.com/bethChris/HealthyHoroscopes">Healthy Horoscopres</a> - mental health meets machine learning</li>
     <li><a href="https://github.com/Treyson-Grange/MineSound">MineSound</a> - TUI minecraft ambient sound randomizer</li>
-    <!--     <li><a href=""></a></li> -->
+<!--     <li><a href="https://github.com/treyson-Grange/snakeJS">Snake JS</a> - multiplayer Snake game with dynamic snake movement and gameplay, built using JavaScript, HTML, CSS, and a custom web server</li> -->
+<!--     <li><a href=""></a></li> -->
   </ul>
 
 <h3>Professional Work</h3>
