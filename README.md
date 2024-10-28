@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=FFE17E)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=Typescript)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=FFFFFF)
+![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=Go&logoColor=00ADD8)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=20AA76)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=React)
 ![Nest.JS](https://img.shields.io/badge/-nestjs-black?style=flat&logo=nestjs&logoColor=20AA76)
@@ -30,13 +31,12 @@
 
 <h3>Personal Projects</h3>
   <ul>
+    <li><a href="https://github.com/Treyson-Grange/jukeTUI">JukeTUI</a> - A TUI for controlling Spotify that features an interactive jukebox system for personalized recommendations and seamless playback management. </li>
     <li><a href="https://github.com/Treyson-Grange/clap-chaos">clap-chaos</a> - app that helps musicians fight off-beat clappers</li>
     <li><a href="https://github.com/Treyson-Grange/TM-Scripts">Tamper Monkey Scripts</a> - some tamper monkey scripts that make my favorite sites better (imo)</li>
     <li><a href="https://github.com/Treyson-Grange/IntextroJourney">IntextroJourney</a> - tool which aims to get introverts out of their comfort zone</li>
     <li><a href="https://github.com/bethChris/HealthyHoroscopes">Healthy Horoscopres</a> - mental health meets machine learning</li>
     <li><a href="https://github.com/Treyson-Grange/MineSound">MineSound</a> - TUI minecraft ambient sound randomizer</li>
-<!--     <li><a href="https://github.com/treyson-Grange/snakeJS">Snake JS</a> - multiplayer Snake game with dynamic snake movement and gameplay, built using JavaScript, HTML, CSS, and a custom web server</li> -->
-<!--     <li><a href=""></a></li> -->
   </ul>
 
 <h3>Professional Work</h3>
@@ -53,28 +53,3 @@
   <li><a href="usu.edu">USU Site</a> - wrapper title, there are a ton of usu sites, I worked on a lot, not all</li>
   <li><a href="https://www.usu.edu/oda/">USU ODA</a> - This site used to be in ColdFusion, using a server that wasn't updated for 14 years. Refactored the whole site</li>
 </ul>
-
-<details>
-  <summary>School Projects</summary>
-  <h2>School Projects</h2>
-  
-  <h3>CS6830 Data Science In Practice</h3>
-  <ul>
-    <li><a href="https://github.com/blake-barber/CS6830-Final-Project">Final Project</a></li>
-    <li><a href="https://github.com/Drew-Watson-117/cs5830_project_8">Project 8</a></li>
-    <li><a href="https://github.com/ShawnThorne/cs5830_project7">Project 7</a></li>
-    <li><a href="https://github.com/n8taylor/cs_5830_project6">Project 6</a></li>
-    <li><a href="https://github.com/Treyson-Grange/cs5830_project5">Project 5</a></li>
-    <li><a href="https://github.com/Treyson-Grange/cs5830_project4">Project 4</a></li>
-    <li><a href="https://github.com/Treyson-Grange/cs5830_project3">Project 3</a></li>
-    <li><a href="https://github.com/Treyson-Grange/cs5830_project2">Project 2</a></li>
-    <li><a href="https://github.com/Treyson-Grange/cs5830_project1">Project 1</a></li>
-  </ul>
-
-  <h3>Misc</h3>
-  <ul>
-    <li><a href="#">Eedi-Mining-Misconceptions-in-Mathematics</a></li> <!-- Placeholder link -->
-    <li><a href="https://github.com/Treyson-Grange/4460CTFd">Cyber Security CTF</a></li>
-    <li><a href="https://github.com/usu-wallace/CS4320_Group_Project_01">Intro to ML final project</a></li>
-  </ul>
-</details>
