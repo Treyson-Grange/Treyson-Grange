@@ -31,7 +31,7 @@
 
 <h3>Personal Projects</h3>
   <ul>
-    <li><a href="https://github.com/Treyson-Grange/jukeTUI">JukeTUI</a> - A TUI for controlling Spotify that features an interactive jukebox system for personalized recommendations and seamless playback management. </li>
+    <li><a href="https://github.com/Treyson-Grange/jukeTUI">JukeTUI</a> - An interactive jukebox system built in Go. Get reccomendations, play from your library, and look at pixelated versions of your favorite album covers.</li>
     <li><a href="https://github.com/Treyson-Grange/clap-chaos">clap-chaos</a> - app that helps musicians fight off-beat clappers</li>
     <li><a href="https://github.com/Treyson-Grange/TM-Scripts">Tamper Monkey Scripts</a> - some tamper monkey scripts that make my favorite sites better (imo)</li>
     <li><a href="https://github.com/Treyson-Grange/IntextroJourney">IntextroJourney</a> - tool which aims to get introverts out of their comfort zone</li>
