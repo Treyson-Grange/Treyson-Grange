@@ -38,18 +38,3 @@
     <li><a href="https://github.com/bethChris/HealthyHoroscopes">Healthy Horoscopres</a> - mental health meets machine learning</li>
     <li><a href="https://github.com/Treyson-Grange/MineSound">MineSound</a> - TUI minecraft ambient sound randomizer</li>
   </ul>
-
-<h3>Professional Work</h3>
-<ul>
-  <li>
-  <a href="https://github.com/Treyson-Grange/openipam-react-frontend">openIPAM Frontend</a> - 
-  The only public-facing project I contributed to while working with USU networking.
-</li>
-<li>
-  <a href="https://github.com/Treyson-Grange/django-openipam">openIPAM API work</a> - 
-  Backend contributions to the openIPAM API during my time at USU networking.
-</li>
-
-  <li><a href="usu.edu">USU Site</a> - wrapper title, there are a ton of usu sites, I worked on a lot, not all</li>
-  <li><a href="https://www.usu.edu/oda/">USU ODA</a> - This site used to be in ColdFusion, using a server that wasn't updated for 14 years. Refactored the whole site</li>
-</ul>
