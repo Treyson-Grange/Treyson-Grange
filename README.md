@@ -37,4 +37,5 @@
     <li><a href="https://github.com/Treyson-Grange/IntextroJourney">IntextroJourney</a> - tool which aims to get introverts out of their comfort zone</li>
     <li><a href="https://github.com/bethChris/HealthyHoroscopes">Healthy Horoscopres</a> - mental health meets machine learning</li>
     <li><a href="https://github.com/Treyson-Grange/MineSound">MineSound</a> - TUI minecraft ambient sound randomizer</li>
+    <li><a href="https://github.com/Treyson-Grange/go-moji-ui">go-moji-ui</a> - A Golang library that provides functions to detect, remove, and count emojis in a string, including those composed of multiple runes.</li>
   </ul>
